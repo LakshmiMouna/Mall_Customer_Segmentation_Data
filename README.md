@@ -11,7 +11,6 @@ This repository contains a Jupyter notebook that demonstrates the implementation
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
